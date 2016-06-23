@@ -6,7 +6,7 @@ Mac OS X command line utility to retrieve the CGWindowID of the specified window
 
 ## Usage
 
-    ./GetWindowID <application-bundle-name> <window-title>
+    ./GetWindowID <application-bundle-name or '*'> <window-title or '*'>
 
 For example:
 
